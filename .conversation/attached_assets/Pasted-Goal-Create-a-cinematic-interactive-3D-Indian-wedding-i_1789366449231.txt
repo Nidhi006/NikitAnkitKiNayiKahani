@@ -1,0 +1,117 @@
+Goal: Create a cinematic, interactive 3D Indian wedding invitation that feels like a Bollywood title sequence rather than a traditional website.
+
+Project Vision
+Create a cinematic experience that tells the story of Nikita and Ankit through an interactive 3D journey inspired by Rajasthan, Lord Krishna, royal palaces and handcrafted storybooks.
+
+Core Principles
+• Narrative over navigation
+• One seamless cinematic journey
+• Premium visual quality
+• Mobile-first performance
+• Reusable architecture
+• Feature-based implementation
+• Accessibility and graceful degradation
+
+To keep quality consistently high, I'd build it in phases rather than trying to do everything at once.
+
+Phase 1:
+Black screen. Very faint temple ambience.
+Golden dust slowly appears and forms the below text
+
+॥ श्री गणेशाय नमः ॥
+
+then Everything fades elegantly.
+then the attached image of a book reveals The logo glows softly. 
+The book opens by itself. No clicking. No scrolling. Guests simply watch.
+
+Phase 2:  Living Storybook
+After the book opens , Pages don't just turn. Every page is alive.
+
+Page 1 : displays the below text
+
+Every love story begins with destiny...
+(Hindi appears beneath)
+हर कहानी की शुरुआत नियति से होती है।
+
+Ink writes itself. Gold particles trail behind the pen.
+
+Page turns.
+
+Page 2 : Bride appears as an illustration attached bride and groom avatar references. Flowers bloom around her.
+
+Page turns.
+
+Page 3 : Groom appears. Peacock feathers slowly emerge.
+
+Page 4 : The Magical Transformation
+
+The pages lift. Ink turns into thousands of golden particles. Particles become peacock feathers. The feathers swirl around the screen.
+They assemble into gigantic temple doors. Exactly where the book stood.
+No scene cut. One continuous animation.
+
+phase 3: The camera approaches. Not by scrolling. It physically flies.
+
+The temple is inspired by:
+Khatu Shyam
+Krishna architecture
+Rajasthani carvings
+Deep maroon
+Antique gold
+Peacock blues
+Lotus pink highlights
+
+Soft volumetric lighting.
+Door Opening : Huge carved wooden doors. Brass handles. Real shadows. Doors slowly open.
+
+Warm light spills outside.
+
+The camera enters the temple. A massive royal mandap stands in the center.
+
+Floating petals. Gold dust. Peacock feathers. Animated diyas. Soft god rays. The Couple, Highly detailed 3D characters - Not static.
+
+phase 4: 
+No exaggerated animation. Everything elegant.
+
+Name Reveal : The names appear like they're written by divine light.
+bride's name : Nikita
+Then
+groom's name : Ankit
+Finally
+#NikitaAnkitKiNayiKahani
+forms from flying petals.
+
+Date Reveal : Exactly as requested.
+The screen becomes filled with enormous animated peacock feathers.
+They gently sway. Temple bells ring. Flute reaches a crescendo. The feathers suddenly lift into the sky, Revealing
+
+1 February 2027
+
+Haldi
+Mayra
+Bhajan
+
+2 February 2027
+
+Wedding
+Sangeet
+
+with elegant bilingual labels.
+
+Live Countdown, Under the hero. Animated with below patter: 
+185 Days
+08 Hours
+14 Minutes
+12 Seconds
+
+Every digit flips like an antique clock.
+
+Scroll Becomes Camera Movement , This is the biggest design decision. The user never scrolls through a webpage. They move through a temple.
+
+Asset Inventory
+3D Models: Book, Temple, Doors, Couples avatar, Diyas, Pedestals
+Textures: Marble, Gold, Wood, Leather, Paper
+Audio: Flute, Temple Bells
+Fonts: English Serif, Devanagari
+Particles: Gold Dust, Petals, Peacock Feathers, Fog
+
+start with phase 1.

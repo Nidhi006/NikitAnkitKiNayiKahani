@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Nikita & Ankit Wedding Journey"
+description = "A cinematic, interactive 3D-inspired Indian wedding invitation for Nikita and Ankit, beginning with an auto-playing Rajasthan-inspired storybook opening and designed to grow into a seamless temple journey."
+version = "1.0.0"
+id = "artifacts/nikita-ankit-wedding"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 19081
+
+[services.development]
+run = "pnpm --filter @workspace/nikita-ankit-wedding run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/nikita-ankit-wedding", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/nikita-ankit-wedding/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "19081"
+BASE_PATH = "/"
